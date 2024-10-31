@@ -53,7 +53,7 @@ opacity: 0px;
     background: #FFFFFF;        
 }
 
-button {
+.banner .banner-content button {
     width: Fixed (326px)px;
 height: Hug (57px)px;
 top: 473px;
